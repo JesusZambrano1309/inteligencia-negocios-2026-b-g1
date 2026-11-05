@@ -11,3 +11,4 @@ Aquí queda la retroalimentación de cada proyecto, revisión por revisión. Bus
 | Andes Store | Juan José Horta Vanegas, Andrés Felipe Gómez Anacona, Laura Sofía Vallejo Oviedo y María Paula Barrios Fajardo | 0 · Definición (29-oct) | [horta-gomez-vallejo-barrios.md](horta-gomez-vallejo-barrios.md) |
 | Moto Riders | Jonathan Andrés Rocha Aldana y Julián Andrés Quintero Medina | 0 · Definición (29-oct) | [rocha-aldana-quintero-medina.md](rocha-aldana-quintero-medina.md) |
 | EcoHogar del Huila | Larissa Alexandra Molina Borja y Yury Lorena Castañeda Cedeño | 0 · Definición (29-oct) | [molina-borja-castaneda-cedeno.md](molina-borja-castaneda-cedeno.md) |
+| Nani Accesorios | Danna Michelle Morales Losada y Alison Fernanda Puentes Avendaño | Revisión 5-nov · preparación de la entrega | [morales-losada-puentes-avendano.md](morales-losada-puentes-avendano.md) |
